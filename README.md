@@ -94,4 +94,20 @@ https://tutorialsdojo.com/aws-vs-azure-services-comparison/
 
 ### Security and Identity
 
-
+|  | AWS IAM (Identity & Access Management)  | Azure AD & RBAC |
+| ------- | --- | --- |
+| Description | |  |
+| MFA | | |
+| Groups |  |  |
+| Roles |  |  |
+| Access |  |  |
+| Monitoring |  |  |
+| Domain |  |  |
+| Permission |  |  |
+| Policy |  |  |
+| Multiple Roles |  |  |
+| Others | | |
+|  | AWS WAF | Azure WAF on Application Gateway |
+|  | AWS Shield | Azure DDos Protection |
+|  | Amazon KMS | Azure Key Vault |
+|  | AWS Trusted Advisor | Azure Advisor |
