@@ -18,20 +18,21 @@ https://tutorialsdojo.com/aws-vs-azure-services-comparison/
 | Security |  |  |
 | Monitoring |  |  |
 | Network |  |  |
-| Others | | |
+| Others |  |  |
 |  | AWS Batch | Azure Batch |
 |  | AWS Auto Scaling | Azure VM Scale Sets |
 |  | AWS Lambda | Azure Functions |
-|  | Amazon ECS, AWS Fargate| Azure Container Instances|
-|  | Amazon ECR| Azure Container Registry|
-|  | Amazon EKS | Azure Kubernetes Service|
+|  | Amazon ECS, AWS Fargate| Azure Container Instances |
+|  | Amazon ECR| Azure Container Registry |
+|  | Amazon EKS | Azure Kubernetes Service |
 
 
 ### Storage
+
 |  | AWS - S3  | Azure - Blob  |
 | ------- | --- | --- |
-| Description | |  |
-| Components | | |
+| Description |  |  |
+| Components |  |  |
 | Max File Size |  |  |
 | Max Storage Size |  |  |
 | Tiers |  |  |
@@ -40,14 +41,32 @@ https://tutorialsdojo.com/aws-vs-azure-services-comparison/
 | CDN |  |  |
 | Encryption |  |  |
 | Endpoint |  |  |
-| Others | | |
+| Others |  |  |
 |  | Amazon EBS | Azure Disk |
 |  | Amazon EFS | Azure Files |
 |  | AWS Storage Gateway | Azure StoreSimple |
 |  | AWS Snow Family | Azure Data Box |
 
-### Datbases
 
+### Databases
+
+|  | Amazon RDS  | Azure SQL |
+| ------- | --- | --- |
+| Description | |  |
+| DB Engines | | |
+| Serverless |  |  |
+| Templates |  |  |
+| Performance |  |  |
+| Hign Availability |  |  |
+| Secondary DB |  |  |
+| Backup |  |  |
+| Monitoring |  |  |
+| Endpoint |  |  |
+| Others | | |
+|  | Amazon DynamoDB | Azure Cosmos DB |
+|  | Amazon Redshift | Azure Synapse Analytics |
+|  | Amazon ElastiCache | Azure Cache for Redis |
+|  | AWS DMS | Azure DMS |
 
 ### Networking
 
