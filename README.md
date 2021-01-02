@@ -68,7 +68,28 @@ https://tutorialsdojo.com/aws-vs-azure-services-comparison/
 |  | Amazon ElastiCache | Azure Cache for Redis |
 |  | AWS DMS | Azure DMS |
 
+
 ### Networking
+
+|  | Amazon VPC  | Azure VNet |
+| ------- | --- | --- |
+| Description | |  |
+| Default | | |
+| Reserved IP Address |  |  |
+| Subnets |  |  |
+| Subnet Types |  |  |
+| Static IP address |  |  |
+| Secondary DB |  |  |
+| Security |  |  |
+| Gateways |  |  |
+| Route Table |  |  |
+| Peering | | |
+| Others | | |
+|  | AWS VPN Gateway | Azure VPN Gateway |
+|  | Amazon Route 53 | Azure DNS |
+|  | AWS Direct Connect | Azure ExpressRoute |
+|  | Amazon ELB: NLB | Azure Load Balancer |
+|  | Amazon ELB: ALB | Azure Application Gateway |
 
 
 ### Security and Identity
