@@ -19,15 +19,32 @@ https://tutorialsdojo.com/aws-vs-azure-services-comparison/
 | Monitoring |  |  |
 | Network |  |  |
 | Others | | |
-|  | AWS Batch| Azure Batch |
+|  | AWS Batch | Azure Batch |
 |  | AWS Auto Scaling | Azure VM Scale Sets |
 |  | AWS Lambda | Azure Functions |
 |  | Amazon ECS, AWS Fargate| Azure Container Instances|
 |  | Amazon ECR| Azure Container Registry|
 |  | Amazon EKS | Azure Kubernetes Service|
 
-### Storage
 
+### Storage
+|  | AWS - S3  | Azure - Blob  |
+| ------- | --- | --- |
+| Description | |  |
+| Components | | |
+| Max File Size |  |  |
+| Max Storage Size |  |  |
+| Tiers |  |  |
+| Durability |  |  |
+| Replication |  |  |
+| CDN |  |  |
+| Encryption |  |  |
+| Endpoint |  |  |
+| Others | | |
+|  | Amazon EBS | Azure Disk |
+|  | Amazon EFS | Azure Files |
+|  | AWS Storage Gateway | Azure StoreSimple |
+|  | AWS Snow Family | Azure Data Box |
 
 ### Datbases
 
